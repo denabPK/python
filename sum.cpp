@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-	int a,b;
+	int c,b;
 	printf("enter the two no value ;");
-	scanf("%d%d",&a,&b);
-	printf("%d and %d is %d",a+b);
+	scanf("%d%d",&c,&b);
+	printf("%d and %d is %d",c+b);
 	return 0;
 	
 }
